@@ -34,6 +34,7 @@ header {
     font-size: 1.5rem;
     align-items: center;
     justify-content: center;
+    text-align: center;
 }
 
 nav {
@@ -413,6 +414,7 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
+    text-align: center;
 }
 
 @media screen and (max-width: 900px) {
@@ -421,12 +423,14 @@ footer {
         flex-direction: column;
         min-width: 80vw;
         position: absolute;
+        align-items: center;
     }
 
     .nav-list {
         display: flex;
         justify-content: space-around;
         padding: 5px;
+        align-items: center;
     }
 
     .logo {
