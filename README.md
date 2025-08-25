@@ -22,22 +22,25 @@ A beautiful, fully responsive streaming website built using only HTML and CSS. T
 
 ---
 
-## File Stucture
+## Project Stucture
 
-│── index.html
-│── style.css
-│── README.md
-│── favicon.ico
-│
+<pre>
+bash
+|── index.html
+|── style.css
+|── README.md
+|── favicon.ico
+|
 ├── icons/
 │   └── (all .svg icons)
-│
+|
 ├── images/
 │   └── (all .jpg + .svg images)
-│
+|
 └── videos/
     └── video.mp4
 
+</pre>
 ---
 
 ## 📸 Preview
@@ -48,7 +51,7 @@ A beautiful, fully responsive streaming website built using only HTML and CSS. T
 ---
 
 ## 🌐 Live Demo
-👉 **[Click Here to Visit Website](https://your-username.github.io/)**  
+👉 **[Click Here to Visit Website](https://abhishek-1273.github.io/Month-1-Ghibli-Flix-WebPage/)**  
 
 
 ✅ Part of my Monthly Project Series for Web Development
